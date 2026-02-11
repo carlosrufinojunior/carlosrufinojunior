@@ -87,31 +87,39 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 <br/>        
 
 ---
+</p>
 
 ### 🎯 What I build
 - **Battery Digital Twins**: hybrid modeling (data-driven + physics-informed) for SoX/RUL/SoH and real-time control.  
 - **BMS & Safety-by-Design**: architecture, compliance, sensing, diagnostics and prognostics with edge-AI.  
 - **Blockchain & Battery Passport**: traceability, regulatory compliance, and trusted data for first-life/second-life.  
 - **Embedded/FPGA & Real-Time Control**: control, DSP, instrumentation and validation (HiL/SiL), including grid-forming applications.
+</p>
 
 ---
+</p>
 
 ### 🧪 Featured projects
 - **iBattMan (EU)** — modular, scalable, connected BMS (edge+cloud), sensing and interoperable architecture.  
 - **PRIMA-Batteries (DE)** — digital twin and predictive maintenance, data collection/processing and models for RUL/SoH/faults.  
 - **TotalEnergies (BR)** — digital twins for second-life batteries and electrolyzers + control to extend lifetime.
+</p>
 
 ---
+</p>
 
 ### 🧰 Tools
 **Languages:** Python, MATLAB, C/C++  
 **ML/DS:** Pandas, PyTorch, TensorFlow  
 **Dev & Ops:** Git, Docker, Jenkins  
 **Embedded & HW:** Embedded Linux (incl. kernel modules), DSP, FPGA, PCB design (Altium, KiCad, Eagle), simulation (LTSpice/Proteus)
+</p>
 
 ---
+</p>
 
 ### 📫 Contact
 - ✉️ carlos.rufino@carissma.eu  
 - ✉️ carlosrufinojunior@yahoo.com  
 - ✉️ carlos.rufinoj@gmail.com  
+</p>
