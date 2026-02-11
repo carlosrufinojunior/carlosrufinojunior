@@ -71,12 +71,12 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior"
     alt="GitHub Stats"
     height="250"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrufinojunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrufinojunior"
     alt="Top Languages"
     height="250"
   />
