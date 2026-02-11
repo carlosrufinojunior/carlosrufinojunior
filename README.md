@@ -8,8 +8,6 @@ I am currently a **Research Associate at CARISSMA (THI, Germany)** and a **postd
 
 I work at the intersection of **embedded systems**, **energy storage**, and **artificial intelligence**, with a focus on **digital twins for batteries and electrolyzers**, **diagnostics/prognostics (SoX/RUL/SoH)**, **battery/electrolyzer control systems to extend lifetime and predict failures**, **edge + cloud**, and **battery traceability & Battery Passport via blockchain**.
 
----
-
 <p align="left">
     <a href="https://www.youtube.com/@carlosrufinojunior7430?sub_confirmation=1">
         <img 
