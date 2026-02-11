@@ -69,7 +69,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&show_icons=true&theme=tokyonight&include_all_commits=true"
     alt="GitHub Stats"
