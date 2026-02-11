@@ -126,7 +126,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ## 🧪 Featured projects
 - **iBattMan (EU)** — modular, scalable, connected BMS (edge+cloud), sensing and interoperable architecture.  
-- **PRIMA-Batteries (DE)** — digital twin and predictive maintenance; data collection/processing and models for RUL/SoH/faults.  
+- **PRIMA-Batteries (DE)** — digital twin and predictive maintenance, data collection/processing and models for RUL/SoH/faults.  
 - **TotalEnergies (FR)** — digital twins for second-life batteries and electrolyzers + control to extend lifetime.
 
 ---
