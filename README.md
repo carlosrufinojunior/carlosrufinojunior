@@ -82,7 +82,9 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 <img align="left" alt="Mongodb" title="Mongodb" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Mysql" title="Mysql" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </p>
-        
+
+<br/>
+<br/>        
 ---
 
 ### 🎯 What I build
