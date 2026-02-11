@@ -85,6 +85,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 ---
 <br/>
 <br/>        
+</p>
 
 ---
 </p>
