@@ -9,29 +9,6 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-## 🔗 Quick Links (icons)
-
-<p align="left">
-  <a href="https://www.carlosrufinojunior.com/" target="_blank">
-    <img alt="Website" title="Website" width="32px" style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlosrufinojunior/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" width="32px" style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://github.com/carlosrufinojunior" target="_blank">
-    <img alt="GitHub" title="GitHub" width="32px" style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  </a>
-  <a href="https://scholar.google.com.br/citations?user=UTA84wUAAAAJ&hl=en" target="_blank">
-    <img alt="Google Scholar" title="Google Scholar" width="32px" style="padding-right: 10px;"
-      src="https://cdn.simpleicons.org/googlescholar/4285F4" />
-  </a>
-</p>
-
----
-
 ## 📣 Social badges
 
 <p align="left">
@@ -70,6 +47,29 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 > ⚠️ Replace `UCxxxxxxxxxxxxxxxxxxxxxx` with your real YouTube **channel ID** (starts with `UC...`).
 > If you tell me your channel ID, I’ll paste the final version already correct.
+
+---
+
+## 🔗 Links
+
+<p align="left">
+  <a href="https://www.carlosrufinojunior.com/" target="_blank">
+    <img alt="Website" title="Website" width="32px" style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlosrufinojunior/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" width="32px" style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://github.com/carlosrufinojunior" target="_blank">
+    <img alt="GitHub" title="GitHub" width="32px" style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a>
+  <a href="https://scholar.google.com.br/citations?user=UTA84wUAAAAJ&hl=en" target="_blank">
+    <img alt="Google Scholar" title="Google Scholar" width="32px" style="padding-right: 10px;"
+      src="https://cdn.simpleicons.org/googlescholar/4285F4" />
+  </a>
+</p>
 
 ---
 
