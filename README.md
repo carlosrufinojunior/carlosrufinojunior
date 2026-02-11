@@ -16,7 +16,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
         <img 
             alt="youtube subscribers" 
             title="Subscribe on my channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCiqNc2ETwj663CcG2BhJX2w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCiqNc2ETwj663CcG2BhJX2w?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@carlosrufinojunior7430">
