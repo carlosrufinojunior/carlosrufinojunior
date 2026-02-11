@@ -65,6 +65,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 ---
 
 ### 🤖 Languages & Technologies
+</p>
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Pytorch" title="Pytorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
@@ -80,10 +81,11 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Mongodb" title="Mongodb" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Mysql" title="Mysql" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</p>
         
 ---
 
-## 🎯 What I build
+### 🎯 What I build
 - **Battery Digital Twins**: hybrid modeling (data-driven + physics-informed) for SoX/RUL/SoH and real-time control.  
 - **BMS & Safety-by-Design**: architecture, compliance, sensing, diagnostics and prognostics with edge-AI.  
 - **Blockchain & Battery Passport**: traceability, regulatory compliance, and trusted data for first-life/second-life.  
@@ -91,14 +93,14 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-## 🧪 Featured projects
+### 🧪 Featured projects
 - **iBattMan (EU)** — modular, scalable, connected BMS (edge+cloud), sensing and interoperable architecture.  
 - **PRIMA-Batteries (DE)** — digital twin and predictive maintenance, data collection/processing and models for RUL/SoH/faults.  
 - **TotalEnergies (BR)** — digital twins for second-life batteries and electrolyzers + control to extend lifetime.
 
 ---
 
-## 🧰 Tools
+### 🧰 Tools
 **Languages:** Python, MATLAB, C/C++  
 **ML/DS:** Pandas, PyTorch, TensorFlow  
 **Dev & Ops:** Git, Docker, Jenkins  
@@ -106,7 +108,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 - ✉️ carlos.rufino@carissma.eu  
 - ✉️ carlosrufinojunior@yahoo.com  
 - ✉️ carlos.rufinoj@gmail.com  
