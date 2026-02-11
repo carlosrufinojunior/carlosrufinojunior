@@ -66,25 +66,6 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&commits_year=2026"
-    alt="GitHub Stats"
-    height="250"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrufinojunior"
-    alt="Top Languages"
-    height="250"
-  />
-</p>
-
-
----
-
 ### 🤖 Languages & Technologies
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
