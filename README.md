@@ -75,7 +75,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
