@@ -205,5 +205,6 @@ Experiência como **docente e orientador** em projetos de graduação/mestrado e
 ---
 
 ## 📫 Contato
+- ✉️ carlos.rufino@carissma.eu
 - ✉️ carlosrufinojunior@yahoo.com  
-- ✉️ carlos.rufinoj@gmail.com :contentReference[oaicite:21]{index=21}  
+- ✉️ carlos.rufinoj@gmail.com
