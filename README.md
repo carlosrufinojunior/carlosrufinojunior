@@ -1,5 +1,6 @@
-# 👨‍💻 Carlos Antônio Rufino Júnior, PhD  
-**`Research Associate | Embedded Systems • Battery Digital Twins • AI/ML • Blockchain • BMS`**
+# 👨‍💻 Carlos Antônio Rufino Júnior, PhD 
+
+**`Research Associate | Embedded Systems • Battery Digital Twins • AI/ML • Blockchain • Battery Management Systems (BMS)`**
 
 My name is Carlos Antônio Rufino Júnior. I hold a PhD in Bioenergy from a joint program carried out by the three São Paulo State universities, that are University of São Paulo (USP), University of Campinas (UNICAMP), and São Paulo State University (UNESP)—completed in March 2025 and awarded **summa cum laude**. I received two research awards in 2025 in international recognition of research excellence. My Industrial Academic PhD project (DAI) attracted strong industrial interest and collaboration. The PhD work involved multiple international universities, supervised by Prof. Dr. Hudson Zanin and co-supervised by Prof. Dr. Hans-Georg Schweiger (THI/Germany) and Prof. Dr. Eleonora Riva Sanseverino (UNIPA/Italy). I also hold an MSc in Systems and Automation Engineering from the Federal University of Lavras (UFLA) (CAPES scholarship, completed in 2019) with a focus on AI methods for signal processing. In addition, I completed a Data Science specialization at Digital House and earned a BSc in Electrical Engineering from the Federal Institute of Minas Gerais (IFMG) – Formiga campus (completed in 2016). I have strong technical and project-management experience in large-scale international industrial projects in e-mobility.
 
@@ -9,44 +10,37 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-## 📣 Social badges
 
 <p align="left">
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@carlosantoniorufinojunior7430?sub_confirmation=1" target="_blank">
-    <img 
-      alt="YouTube subscribers" 
-      title="Subscribe on YouTube" 
-      src="https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxxxxxxxx?style=for-the-badge&logo=youtube"
-    />
-  </a>
-  <a href="https://www.youtube.com/@carlosantoniorufinojunior7430" target="_blank">
-    <img 
-      alt="YouTube views" 
-      title="YouTube views" 
-      src="https://img.shields.io/youtube/channel/views/UCxxxxxxxxxxxxxxxxxxxxxx?style=for-the-badge&logo=youtube"
-    />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/carlosrufinojunior?tab=repositories&sort=stargazers" target="_blank">
-    <img 
-      alt="GitHub stars" 
-      title="GitHub stars" 
-      src="https://custom-icon-badges.demolab.com/github/stars/carlosrufinojunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-    />
-  </a>
-  <a href="https://github.com/carlosrufinojunior?tab=followers" target="_blank">
-    <img 
-      alt="GitHub followers" 
-      title="Follow me on GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/carlosrufinojunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
-    />
-  </a>
+    <a href="https://www.youtube.com/@carlosrufinojunior7430?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCiqNc2ETwj663CcG2BhJX2w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@carlosrufinojunior7430">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCiqNc2ETwj663CcG2BhJX2w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/carlosrufinojunior?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/carlosrufinojunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/carlosrufinojunior?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/carlosrufinojunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
-
-> ⚠️ Replace `UCxxxxxxxxxxxxxxxxxxxxxx` with your real YouTube **channel ID** (starts with `UC...`).
-> If you tell me your channel ID, I’ll paste the final version already correct.
 
 ---
 
@@ -95,22 +89,18 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-## 🤖 Languages & Technologies
+### 🤖 Languages & Technologies
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Cembedded" title="Cembedded" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 
 <br/><br/>
 
