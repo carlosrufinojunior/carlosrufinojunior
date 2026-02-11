@@ -70,24 +70,20 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 ### 📊 GitHub Stats
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="250" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=carlosrufinojunior&show_icons=true&theme=tokyonight&include_all_commits=true"
+    alt="GitHub Stats"
+    height="250"
+    style="float: left; padding-right: 10px;"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrufinojunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrufinojunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Top Languages"
+    height="250"
+    style="float: left;"
   />
-
 </p>
-
-
 
 ---
 
