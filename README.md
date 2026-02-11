@@ -15,28 +15,28 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
     <a href="https://www.youtube.com/@carlosrufinojunior7430?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Subscribe on my channel" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCiqNc2ETwj663CcG2BhJX2w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@carlosrufinojunior7430">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title="Views on YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCiqNc2ETwj663CcG2BhJX2w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/carlosrufinojunior?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stars" 
+            title="Total of stars on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/carlosrufinojunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/carlosrufinojunior?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/carlosrufinojunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
