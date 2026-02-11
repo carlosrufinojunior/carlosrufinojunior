@@ -10,7 +10,6 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-
 <p align="left">
     <a href="https://www.youtube.com/@carlosrufinojunior7430?sub_confirmation=1">
         <img 
@@ -68,8 +67,6 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 ---
 
 
-
-
 ### 📊 GitHub Stats
 
 <p>
@@ -94,8 +91,6 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ---
 
-
-
 ### 🤖 Languages & Technologies
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -106,9 +101,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
 
 ---
 
