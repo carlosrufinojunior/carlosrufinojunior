@@ -5,7 +5,7 @@ Me chamo Carlos Antônio Rufino Júnior. Possuo doutorado em bioenergia pelo pro
 
 Atualmente sou **Research Associate no CARISSMA (THI, Alemanha)** e **pós-doutorando na UNICAMP**, liderando e contribuindo em projetos industriais e de pesquisa aplicada em mobilidade elétrica, segurança e gestão inteligente de energia. 
 
-Atuo na interseção entre **sistemas embarcados**, **armazenamento de energia** e **inteligência artificial**, com foco em **digital twins para baterias e eletrolisadores**, **diagnóstico/prognóstico (SoX/RUL/SoH)**, **edge + cloud**, e **rastreabilidade (Battery Passport) via blockchain**.  
+Atuo na interseção entre **sistemas embarcados**, **armazenamento de energia** e **inteligência artificial**, com foco em **digital twins para baterias e eletrolisadores**, **diagnóstico/prognóstico (SoX/RUL/SoH)**, **sistemas de controle de baterias e eletrolisadores com foco em estender a vida útil e prever falhas**, **edge + cloud**, e **rastreabilidade de baterias e battery passport via blockchain**.  
 
 <p align="left">
     <a href="https://www.youtube.com/@carlosantoniorufinojunior7430?sub_confirmation=1">
