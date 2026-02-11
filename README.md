@@ -86,6 +86,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 <br/>
 <br/>        
 
+---
 
 ### 🎯 What I build
 - **Battery Digital Twins**: hybrid modeling (data-driven + physics-informed) for SoX/RUL/SoH and real-time control.  
