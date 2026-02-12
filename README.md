@@ -132,7 +132,7 @@ I work at the intersection of **embedded systems**, **energy storage**, and **ar
 
 ### 🧰 Tools
 **Languages:** Python, MATLAB, C/C++  
-**ML/DS:** Pandas, PyTorch, TensorFlow  
+**ML/DS:** Pandas, PyTorch, TensorFlow and Scikit-learn.  
 **Dev & Ops:** Git, Docker, Jenkins  
 **Embedded & HW:** Embedded Linux (incl. kernel modules), DSP, FPGA, PCB design (Altium, KiCad, Eagle), simulation (LTSpice/Proteus)
 </p>
